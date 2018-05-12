@@ -1,0 +1,32 @@
+_repo: Souvenirs-de-l-arm-e-am-ricaine-en-FranceSouvenir-of-the-American-Army-in-France_44244
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44244-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Berne-Bellecour, Jean
+    gutenberg_agent_id: '42652'
+    url: http://www.gutenberg.org/2009/agents/42652
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR La Première Guerre Mondiale, 1914-1918
+- World War I
+gutenberg_issued: '2013-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44244'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Art and the war'
+- !lcsh 'World War, 1914-1918 -- Pictorial works'
+- !lcsh 'War in art'
+- !lcc 'D501'
+title: 'Souvenirs de l''armée américaine en France
+
+  Souvenir of the American Army in France'
+url: http://www.gutenberg.org/ebooks/44244
