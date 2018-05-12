@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42652'
     url: http://www.gutenberg.org/2009/agents/42652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44244#Souvenirs-de-l-arm-e-am-ricaine-en-FranceSouvenir-of-the-American-Army-in-France
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR La Première Guerre Mondiale, 1914-1918
